@@ -1,0 +1,6 @@
+{
+  "name": "MilestoneMaster",
+  "description": "Application de gestion de jalons multi-projets avec une vue prévisionnelle (1, 2, 3 et 6 mois) et une analyse de risques par IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
